@@ -1,4 +1,8 @@
-#6. Escreva um programa que leia um número e imprima seu dobro, seu triplo e sua raiz quadrada.#
+#6. Escreva um programa que leia um número
+#  e imprima seu dobro,
+#  seu triplo e 
+# sua raiz quadrada.#
+
 numero:float = float(input("Digite um número: "))
 dobro: float = numero * 2
 print(f"O dobro do número informado é: {dobro}")
